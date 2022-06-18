@@ -1,0 +1,25 @@
+{
+    "word": "Search",
+    "total": 3,
+    "plans": [
+        {
+            "title": "Search Plan 1",
+            "duration": 7,
+            "price": 990,
+            "total_price": "R$ 69,30"
+        },
+
+        {
+            "title": "Search Plan 2",
+            "duration": 12,
+            "price": 1990,
+            "total_price": "R$ 238,80"
+        },
+        {
+            "title": "Search Plan 3",
+            "duration": 6,
+            "price": 2000,
+            "total_price": "R$ 120,00"
+        }
+    ]
+}
